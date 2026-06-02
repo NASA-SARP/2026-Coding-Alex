@@ -4,7 +4,7 @@ Welcome to SARP coding in 2026! This repository contains coding lessons and reso
 
 For the coding lessons component, we will primarily be using files in the [lessons](lessons) folder. 
 
-This is an active repository and there will be frequent updates.
+Please note that this is an active repository and there will be frequent updates. Some of these folders may be empty for now.
 
 ## Folders
 1) [docs](docs)
@@ -12,16 +12,16 @@ This is an active repository and there will be frequent updates.
 3) [problems](problems)
 4) [snippets](snippets)
 
-Note that some of these folders may be empty for now.
-
 ## Lessons
 
 This lesson plan will be updated regularly. Please check back for updates.
 
-| # | Lesson |
-|-----|---------|
-| 1 | [Python Building Blocks](lessons/01_building_blocks.ipynb) |
-| 2 | [Tabular Data with Pandas](lessons/02_tabular_data.ipynb) |
+| # | Lesson | New Python Libraries|
+|-----|:--------------|:---------|
+| 1 | [Python Building Blocks](lessons/01_building_blocks/01_building_blocks.ipynb) | |
+| 2 | [Tabular Data](lessons/02_tabular_data/02_tabular_data.ipynb) | `pandas` |
+| 3 | [Vector Data](lessons/03_vector_data/03_vector_data.ipynb) | `shapely`, `geopandas` |
+| 4 | [Gridded Data](lessons/04_gridded_data/04_gridded_data.ipynb) | `xarray` |
 
 
 ## Setup
@@ -33,5 +33,12 @@ To download this repo use:
 To get a single lesson:
 
 `git checkout main -- lessons/01_building_blocks.ipynb`
+
+Please note that the lessons contain embedded images for which you will additionally need to make copy of the `images` folder in each lesson folder.
+
+
+## Acknowledgements
+
+This repository was created by [Alex Saunders](https://alex-saunders00.github.io/) and borrows heavily from the NASA SARP Programming Lessons _["Python Programming for Earth Science Researchers"](https://nasa-sarp.github.io/sarp_lessons/)_ created by Rachel Wegener. The contents of this repository were also inspired by past NASA SARP coding mentors.
 
 
