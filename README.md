@@ -22,6 +22,7 @@ This lesson plan will be updated regularly. Please check back for updates.
 | 2 | [Tabular Data](lessons/02_tabular_data/02_tabular_data.ipynb) | `pandas` |
 | 3 | [Vector Data](lessons/03_vector_data/03_vector_data.ipynb) | `shapely`, `geopandas` |
 | 4 | [Gridded Data](lessons/04_gridded_data/04_gridded_data.ipynb) | `xarray` |
+| 5 | Tabular, Vector, and Gridded Data Recap | |
 
 
 ## Setup
