@@ -66,3 +66,8 @@ data/
 outputs/
 scratch/
 tmp/
+
+
+
+# parking lot lesson
+lessons/parking_lot.ipynb
