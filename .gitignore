@@ -62,7 +62,7 @@ main.pdf
 # =========================
 # Project-specific large data
 # =========================
-data/
+/data/
 outputs/
 scratch/
 tmp/
