@@ -27,16 +27,19 @@ This lesson plan will be updated regularly. Please check back for updates.
 
 ## Setup
 
-To download this repo use:
+During the in-person lessons, we will mainly be working with Jupyter Lab via CryoCloud. The simplest option is to download the lesson.zip, unzip, and upload it to your CryoCloud Desktop.
+
+If you prefer to use git, you can download this repo using:
 
 `git clone https://github.com/NASA-SARP/2026-Coding-Alex.git`
 
-To get a single lesson:
+Given the active lesson updates, to have the latest version of the lessons you may need to regularly fetch (`git fetch`) and merge updates (`git pull`) into your clone of the repo.
 
-`git checkout main -- lessons/01_building_blocks.ipynb`
+If you want to get a single lesson you can use:
 
-Please note that the lessons contain embedded images for which you will additionally need to make copy of the `images` folder in each lesson folder.
+`git checkout main -- lessons/01_building_blocks/01_building_blocks.ipynb`
 
+However, please note that each lesson additionally contains folders `images` and `data` which contain files used in the class. If you checkout a single lesson file, you will additionally need to make a copy of these folders in the same directory as your copy of the lesson file. 
 
 ## Acknowledgements
 
