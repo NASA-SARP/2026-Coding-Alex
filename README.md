@@ -22,7 +22,7 @@ This lesson plan will be updated regularly. Please check back for updates.
 | 2 | [Tabular Data](lessons/02_tabular_data/02_tabular_data.ipynb) | `pandas` |
 | 3 | [Vector Data](lessons/03_vector_data/03_vector_data.ipynb) | `shapely`, `geopandas` |
 | 4 | [Gridded Data](lessons/04_gridded_data/04_gridded_data.ipynb) | `xarray` |
-| 5 | Tabular, Vector, and Gridded Data Recap | |
+| 5 | [Raster Data](lessons/05_raster_data/05_raster_data.ipynb) | `rasterio`, `numpy`|
 
 
 ## Setup
@@ -33,7 +33,7 @@ If you prefer to use git, you can download this repo using:
 
 `git clone https://github.com/NASA-SARP/2026-Coding-Alex.git`
 
-Given the active lesson updates, to have the latest version of the lessons you may need to regularly fetch (`git fetch`) and merge updates (`git pull`) into your clone of the repo.
+Given the active lesson updates, you may need to regularly fetch (`git fetch`) and merge updates (`git pull`) into your clone of the repo to have the latest version of the lessons.
 
 If you want to get a single lesson you can use:
 
