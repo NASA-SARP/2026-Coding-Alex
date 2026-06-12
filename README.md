@@ -16,13 +16,15 @@ Please note that this is an active repository and there will be frequent updates
 
 This lesson plan will be updated regularly. Please check back for updates.
 
-| # | Lesson | New Python Libraries|
-|-----|:--------------|:---------|
-| 1 | [Python Building Blocks](lessons/01_building_blocks/01_building_blocks.ipynb) | |
-| 2 | [Tabular Data](lessons/02_tabular_data/02_tabular_data.ipynb) | `pandas` |
-| 3 | [Vector Data](lessons/03_vector_data/03_vector_data.ipynb) | `shapely`, `geopandas` |
-| 4 | [Gridded Data](lessons/04_gridded_data/04_gridded_data.ipynb) | `xarray` |
-| 5 | [Raster Data](lessons/05_raster_data/05_raster_data.ipynb) | `rasterio`, `numpy`|
+Click on the link under each Lesson Name to navigate to the Jupyter Notebook lesson. Click the link under Slides to navigate to the slides used in each lesson as an introduction to the concepts.
+
+| # | Lesson | New Python Libraries| Intro Slides|
+|-----|:--------------|:---------|:---------|
+| 1 | [Python Building Blocks](lessons/01_building_blocks/01_building_blocks.ipynb) | | |
+| 2 | [Tabular Data](lessons/02_tabular_data/02_tabular_data.ipynb) | `pandas` | [Intro](lessons/intro_lesson_02.pdf)|
+| 3 | [Vector Data](lessons/03_vector_data/03_vector_data.ipynb) | `shapely`, `geopandas` | [Intro](lessons/intro_lesson_03.pdf)|
+| 4 | [Gridded Data](lessons/04_gridded_data/04_gridded_data.ipynb) | `xarray` | |
+| 5 | [Raster Data](lessons/05_raster_data/05_raster_data.ipynb) | `rasterio`, `numpy`| [Intro](lessons/intro_lesson_05.pdf)|
 
 
 ## Setup
