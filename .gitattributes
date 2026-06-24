@@ -1,0 +1,4 @@
+lessons/**/*.ipynb filter=nbstripout
+lessons/**/*.ipynb diff=ipynb
+
+*.zpln filter=nbstripout
