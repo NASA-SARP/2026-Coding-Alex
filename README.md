@@ -24,8 +24,9 @@ Click on the link under each Lesson Name to navigate to the Jupyter Notebook les
 | 2 | [Tabular Data](lessons/02_tabular_data/02_tabular_data.ipynb) | `pandas` | [Intro](docs/intro_lesson_02.pdf)|
 | 3 | [Vector Data](lessons/03_vector_data/03_vector_data.ipynb) | `shapely`, `geopandas` | [Intro](docs/intro_lesson_03.pdf)|
 | 4 | [Gridded Data](lessons/04_gridded_data/04_gridded_data.ipynb) | `xarray` | [Intro](docs/intro_lesson_04.pdf) |
-| 5 | [Time-Series Data](lessons/05_timeseries_data/05_timeseries_data.ipynb) | `datetime` | [Intro](docs/intro_lesson_04.pdf) |
+| 5 | [Time-Series Data](lessons/05_timeseries_data/05_timeseries_data.ipynb) | `datetime` | |
 | 6 | [Raster Data](lessons/06_raster_data/06_raster_data.ipynb) | `rasterio`, `numpy`| [Intro](docs/intro_lesson_06.pdf)|
+| 7 | [Creating figures](lessons/07_creating_figures/07_creating_figures.ipynb) | `matplotlib`, `cartopy`| |
 
 
 ## Setup
