@@ -2,21 +2,19 @@
 
 This folder contains Jupyter Notebook based coding lessons.
 
+1. [Python Building Blocks](01_building_blocks/01_building_blocks.ipynb)
 
+2. [Tabular Data](02_tabular_data/02_tabular_data.ipynb)
 
-1. \[Python Building Blocks](01\_building\_blocks/01\_building\_blocks.ipynb)
+3. [Vector Data](03_vector_data/03_vector_data.ipynb)
 
-2\. \[Tabular Data](02\_tabular\_data/02\_tabular\_data.ipynb)
+4. [Gridded Data](04_gridded_data/04_gridded_data.ipynb)
 
-3\. \[Vector Data](03\_vector\_data/03\_vector\_data.ipynb)
+5. [Time-Series Data](05_timeseries_data/05_timeseries_data.ipynb)
 
-4\. \[Gridded Data]04\_gridded\_data/04\_gridded\_data.ipynb)
+6. [Raster Data](06_raster_data/06_raster_data.ipynb)
 
-5\. \[Time-Series Data](05\_timeseries\_data/05\_timeseries\_data.ipynb)
-
-6\. \[Raster Data](06\_raster\_data/06\_raster\_data.ipynb)
-
-7\. \[Creating Figures](07\_creating\_figures/07\_creating\_figures.ipynb)
+7. [Creating Figures](07_creating_figures/07_creating_figures.ipynb)
 
 
 
