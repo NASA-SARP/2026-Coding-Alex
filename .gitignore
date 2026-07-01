@@ -66,6 +66,7 @@ main.pdf
 outputs/
 scratch/
 tmp/
+tests/
 
 snippets/data
 

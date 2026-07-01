@@ -2,9 +2,13 @@
 
 This folder contains general code snippets.
 
-* [Download data from an AWS bucket](download_aws_data_example.ipynb)
-* [Download data from NASA EarthData using earthaccess](download_earthaccess_data_example.ipynb)
-* [Download data from Copernicus EODC using STAC API](download_copernicus_eodc_data_example.ipynb)
-* [Download data from Google Earth Engine](download_earthengine_data_example.ipynb)
+## Stream / download data
+* [Download data from an AWS bucket](download_aws_data.ipynb)
+* [Download data from NASA EarthData using earthaccess](download_earthaccess_data.ipynb)
+* [Download data from Copernicus EODC using STAC API](download_copernicus_eodc_data.ipynb)
+* [Download data from Google Earth Engine](download_earthengine_data.ipynb)
+
+## Processing / analysis
+* [Process spatially aggregated time-series data from Google Earth Engine](process_earthengine_timeseries.ipynb)
 * [Stack many image dates into a single data cube using xarray](Read_Many_MODIS_Example.ipynb) (written by Jack Dechow)
 
