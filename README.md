@@ -27,6 +27,7 @@ Click on the link under each Lesson Name to navigate to the Jupyter Notebook les
 | 5 | [Time-Series Data](lessons/05_timeseries_data/05_timeseries_data.ipynb) | `datetime` | |
 | 6 | [Raster Data](lessons/06_raster_data/06_raster_data.ipynb) | `rasterio`, `numpy`| [Intro](docs/intro_lesson_06.pdf)|
 | 7 | [Creating figures](lessons/07_creating_figures/07_creating_figures.ipynb) | `matplotlib`, `cartopy`| |
+| 8 | [Accessing earth observation data](snippets) | `earthaccess`, `pystac-client`, `boto3`, `ee`, `geemap` | [Intro](docs/intro_lesson_08.pdf)|
 
 
 ## Setup
@@ -47,6 +48,6 @@ However, please note that each lesson additionally contains folders `images` and
 
 ## Acknowledgements
 
-This repository was created by [Alex Saunders](https://alex-saunders00.github.io/) and borrows heavily from the NASA SARP Programming Lessons _["Python Programming for Earth Science Researchers"](https://nasa-sarp.github.io/sarp_lessons/)_ created by Rachel Wegener. The contents of this repository were also inspired by past NASA SARP coding mentors.
+This repository was created by [Alex Saunders](https://alex-saunders00.github.io/) and borrows heavily from the NASA SARP Programming Lessons _["Python Programming for Earth Science Researchers"](https://nasa-sarp.github.io/sarp_lessons/)_ created by [Rachel Wegener](https://rwegener2.github.io/). The contents of this repository were also inspired by past NASA SARP coding mentors with help from 2026 East Coast Coding Mentor [Jack Dechow](https://dechowjack.github.io/).
 
 
