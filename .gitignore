@@ -69,6 +69,7 @@ tmp/
 tests/
 
 snippets/data
+snippets/figs_for_animation/*.png
 
 
 # parking lot lesson

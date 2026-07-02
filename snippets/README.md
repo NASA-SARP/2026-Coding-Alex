@@ -12,3 +12,6 @@ This folder contains general code snippets.
 * [Process spatially aggregated time-series data from Google Earth Engine](process_earthengine_timeseries.ipynb)
 * [Stack many image dates into a single data cube using xarray](Read_Many_MODIS_Example.ipynb) (written by Jack Dechow)
 
+## Visualization
+* [Create an animated mp4 map plot over multiple dates using imageio](create_animated_figure_mp4.ipynb) 
+
