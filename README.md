@@ -4,7 +4,7 @@ Welcome to SARP coding in 2026! This repository contains coding lessons and reso
 
 For the coding lessons component, we will primarily be using files in the [lessons](lessons) folder. 
 
-Please note that this is an active repository and there will be frequent updates. Some of these folders may be empty for now.
+Please note that this is an active repository and there will be frequent updates.
 
 ## Folders
 1) [docs](docs)
@@ -48,6 +48,6 @@ However, please note that each lesson additionally contains folders `images` and
 
 ## Acknowledgements
 
-This repository was created by [Alex Saunders](https://alex-saunders00.github.io/) and borrows heavily from the NASA SARP Programming Lessons _["Python Programming for Earth Science Researchers"](https://nasa-sarp.github.io/sarp_lessons/)_ created by [Rachel Wegener](https://rwegener2.github.io/). The contents of this repository were also inspired by past NASA SARP coding mentors with help from 2026 East Coast Coding Mentor [Jack Dechow](https://dechowjack.github.io/).
+This repository was created by [Alex Saunders](https://alex-saunders00.github.io/) and borrows heavily from the NASA SARP Programming Lessons _["Python Programming for Earth Science Researchers"](https://nasa-sarp.github.io/sarp_lessons/)_ created by [Rachel Wegener](https://rwegener2.github.io/). The contents of this repository were also inspired by past NASA SARP coding mentors with help from 2026 East Coast Coding Mentor [Jack Dechow](https://dechowjack.github.io/), as well as the brilliant SARP 2026 students.
 
 
