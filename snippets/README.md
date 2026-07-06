@@ -18,5 +18,5 @@ This folder contains general code snippets.
 * [Create an animated mp4 map plot over multiple dates using `imageio`](create_animated_figure_mp4.ipynb)
 
 ## Dataset specific
-* [Stream and process SMAP L4 soil moisture data via `earthaccess`](process_smap_earthaccess.ipynb) _(contributed by Taryn Anderson)_
+* [Stream and process SMAP L4 soil moisture data via `earthaccess`](process_smap_earthaccess.ipynb) _(contributed by Taryn Andersen)_
 
