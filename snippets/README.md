@@ -13,6 +13,7 @@ This folder contains general code snippets.
 * [Process data from NASA EarthData to create a multi-year region-mean time-series](process_earthaccess_data_timeseries.ipynb) _(written by Rachel Wegener and contributed by Shimi Goldberger)_
 * [Create an annual cloud-free surface reflectance composite from Google Earth Engine](process_landsat_composite_earthengine.ipynb) _(contributed by Kira Baker)_
 * [Stack many image dates into a single data cube using `xarray`](Read_Many_MODIS_Example.ipynb) _(written by Jack Dechow)_
+* [Resample swath data to a regular grid using `pyresample`](resample_swath_data_to_grid.ipynb)
 
 ## Visualization
 * [Create an animated mp4 map plot over multiple dates using `imageio`](create_animated_figure_mp4.ipynb)
