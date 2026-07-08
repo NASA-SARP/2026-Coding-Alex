@@ -1,5 +1,7 @@
 # 2026-Coding-Alex
 
+<img align = "left" src="https://science.nasa.gov/wp-content/uploads/2023/11/sarp-patch.jpeg?w=1280&format=webp" alt="drawing" width="140"/>
+
 Welcome to SARP coding in 2026! This repository contains coding lessons and resources for the [NASA Student Airborne Research Program (SARP)](https://www.nasa.gov/centers/ames/earthscience/programs/airbornescience/studentairborneresearchprogram) 2026 with Alex.
 
 For the coding lessons component, we will primarily be using files in the [lessons](lessons) folder. 
