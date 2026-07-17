@@ -20,4 +20,6 @@ This folder contains general code snippets.
 
 ## Dataset specific
 * [Stream and process SMAP L4 soil moisture data via `earthaccess`](process_smap_earthaccess.ipynb) _(contributed by Taryn Andersen)_
+* [Access USGS stream gauge data via `dataretrieval.waterdata`](access_usgs_gauge_data.ipynb) _(contributed by Cree Taylor)_
+* [Resample NASA TEMPO swath data to a regular grid using `pyresample`](resample_swath_data_to_grid_TEMPO.ipynb) _(contributed by Marin Stevens)_
 
